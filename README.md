@@ -4,4 +4,4 @@
 3. 通过在本地将Rmarkdownd、markdown或ipynb格式的文件转为html格式，并push到tony2015116.github.io；
 4. 可以在本地的tony2015116.github.io文件夹中，新建文件夹，如test;
 5. 将Rmarkdown通过Rstudio的knit生成html文件；markdown或ipynb通过python生成html文件，如test.html。
-6. 打开网址https://tony2015116.github.io/test/test.html，就可以看到生成的html内容了。
+6. 打开网址`https://tony2015116.github.io/test/test.html`，就可以看到生成的html内容了,比如我的[测试网页](https://tony2015116.github.io/test/test.html)。
