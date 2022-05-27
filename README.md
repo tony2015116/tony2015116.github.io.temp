@@ -1,5 +1,5 @@
 ## tony2015116.github.io
-1. 可以参考[github page](https://pages.github.com/)，新建tony2015116.github.io(<your user name.github.io>)仓；
+1. 可以参考[github page](https://pages.github.com/)，新建tony2015116.github.io仓；
 2. 使用Rstudio或vscode，将tony2015116.github.io克隆到本地；
 3. 通过在本地将Rmarkdownd、markdown或ipynb格式的文件转为html格式，并push到tony2015116.github.io；
 4. 可以在本地的tony2015116.github.io文件夹中，新建文件夹，如test;
