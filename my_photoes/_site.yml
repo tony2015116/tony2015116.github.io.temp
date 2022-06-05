@@ -1,0 +1,14 @@
+name: "拍照"
+navbar:
+  title: "我的拍摄"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<tony2015116@163.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/tony2015116.github.io/my_photoes
+output:
+  html_document:
+    theme: darkly
