@@ -12,4 +12,4 @@ navbar:
 output:
   html_document:
     theme: darkly
-output_dir: "./docs"
+output_dir: "."
