@@ -1,7 +1,10 @@
 ---
-title: "My cats have a website"
+title: "my photoes"
+author: "mguo"
+date: "2022/6/5"
+output: html_document
 ---
 
-![](images/0_0_10_0_39_1_18_109_40_0_0_0_p1.png){width="561"}
+![](images/pexels-pixabay-57416.jpg){width="443"}
 
-![](images/pexels-pixabay-57416.jpg){width="489"}
+![](images/shot-stash-camera-red-button.jpg){width="443"}
