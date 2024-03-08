@@ -7,3 +7,6 @@
 6. 打开网址`https://tony2015116.github.io/test-R/test.html`，就可以看到生成的html内容了,比如我的[测试网页1](https://tony2015116.github.io/test-R/test.html)和[测试网页2](https://tony2015116.github.io/test-jupyter/test.html);
 7. 如果直接在本地文件夹tony2015116.github.io下生成html文件，则可以通过`https://tony2015116.github.io/test.html`；
 8. 你所需要做的，就是参考第一步github page上的步骤，对git有部分了解，可以使用Rstudio或vscode.
+
+9. #update at 2024-03-08
+   将仓库名称由“tony2015116.github.io”改为“tony2015116.github.io.temp”
